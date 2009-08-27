@@ -1,4 +1,5 @@
 require 'rubygems'
+#require 'mq' # testing if library will work when amqp is already loaded
 require 'test/unit'
 #require 'shoulda'
 require 'mocha'
