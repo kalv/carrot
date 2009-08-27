@@ -7,10 +7,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "carrot"
-    s.summary = %Q{TODO}
+    s.summary = %Q{Carrot is an Async version of Event machine to help publishing in loops or EM Blocks}
     s.email = "amos@geni.com"
     s.homepage = "http://github.com/famoseagle/carrot"
-    s.description = "TODO"
+    s.description = "Carrot is an Async version of Event machine to help publishing in loops or EM Blocks"
     s.authors = ["Amos Elliston"]
   end
 rescue LoadError
